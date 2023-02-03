@@ -1,4 +1,4 @@
-package app.src.main.java.com.example.iqdisabled;
+package com.example.iqdisabled;
 
 public class Star extends Shape{
 }
